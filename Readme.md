@@ -4,7 +4,7 @@ A Python project for managing books and related resources using **SQLite** and a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 This project is compatible with **Python 3.x** and uses **SQLite** as the database.
 
@@ -13,7 +13,7 @@ This project is compatible with **Python 3.x** and uses **SQLite** as the databa
 - Python 3.x
 - SQLite3 (comes with Python by default)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -24,7 +24,7 @@ This project is compatible with **Python 3.x** and uses **SQLite** as the databa
 
 ---
 
-## 🛠️ Classes and Adapters
+##  Classes and Adapters
 
 ### Classes
 
@@ -44,7 +44,7 @@ This project is compatible with **Python 3.x** and uses **SQLite** as the databa
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ```python
 from main import AuthorsAdapter, Book
@@ -59,7 +59,7 @@ You can use the adapters to fetch data from other tables similarly.
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - The `Book` class can hold multiple related objects like authors, translators, genres, languages, and resources.
 - The project is designed to be easily extendable to add more functionality, like inserting, updating, or deleting records.
